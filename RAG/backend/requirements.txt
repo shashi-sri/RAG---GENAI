@@ -1,0 +1,14 @@
+# Web framework for building the REST API
+fastapi==0.115.0
+# ASGI server to run the FastAPI application
+uvicorn==0.30.6
+# Official OpenAI SDK for embeddings and chat completions
+openai==1.51.0
+# Local vector database for storing and searching document embeddings
+chromadb==0.5.11
+# Library to extract text from uploaded PDF files
+pypdf==5.0.1
+# Required by FastAPI to parse uploaded files (multipart/form-data)
+python-multipart==0.0.12
+# Data validation library used for request schemas
+pydantic==2.9.2
