@@ -1,0 +1,2 @@
+# RAG---GENAI
+RAG implementation 
